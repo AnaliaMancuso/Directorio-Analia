@@ -7,5 +7,9 @@
 body {
   font-family: "Rubik", sans-serif !important;
 }
+body .badge {
+  font-size: larger;
+  margin-top: 50px;
+}
 
 /*# sourceMappingURL=style.css.map */
